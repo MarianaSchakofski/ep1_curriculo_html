@@ -19,6 +19,11 @@
         <li>Curso tecnico</li>
       </ul>
      <h2>Trabalhos</h2>
-       <ol>Recepcionista</ol>
+      <ol>
+        <li>Recepcionista de Clinica de Odonto<\li>
+        <li>Farmáceutica</li>
+        <li>Fiscal de Caixa</li>
+        <li>Trabalho Voluntário em ONGs</li>
+      </ol>
     </body>
 </html>
